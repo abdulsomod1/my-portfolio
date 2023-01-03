@@ -7,4 +7,5 @@ body {
   width: min(20vw, 400px);
   font-size: large;
   color: aliceblue;
+  color: yellow;
 }
